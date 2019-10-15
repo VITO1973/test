@@ -1,2 +1,3 @@
 get-help
-get-services
+get-service
+get-test
