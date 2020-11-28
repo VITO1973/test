@@ -1,2 +1,2 @@
 
-git config --global core.editor "atom --wait" zmiana
+git config --global core.editor "atom --wait"
