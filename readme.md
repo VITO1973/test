@@ -1,4 +1,7 @@
 
 git config --global core.editor "atom --wait"
 
-kokojumbo
+kokojumbo44
+
+
+gagagagaga4
